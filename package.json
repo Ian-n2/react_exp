@@ -15,13 +15,13 @@
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-hot-loader": "^4.12.21"
+    "react-hot-loader": "^4.13.1"
   },
   "devDependencies": {
     "webpack": "latest",
     "webpack-cli": "latest",
     "@babel/preset-react": "latest",
-    "babel-loader": "^8.1.0",
+    "babel-loader": "^8.3.0",
     "@babel/core": "^7.10.3",
     "@babel/preset-env": "latest",
     "@hot-loader/react-dom": "latest",
